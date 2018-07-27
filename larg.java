@@ -12,7 +12,6 @@ class Ideone
 		a=sc.nextInt();
 		b=sc.nextInt();
 		c=sc.nextInt();
-		
 		if(a>b && a>c)
 		{
 		System.out.println(a);
